@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NoBrakesProjekt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NoBrakesProjekt_jar</output-path>
+    <root id="archive" name="NoBrakesProjekt.jar">
+      <element id="module-output" name="NoBrakesProjekt" />
+    </root>
+  </artifact>
+</component>
