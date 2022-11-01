@@ -69,5 +69,3 @@ public class Auto {
         return startYPos;
     }
 }
-
-
